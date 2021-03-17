@@ -1,0 +1,6 @@
+Hocam 2019 yılında aldığım komple uygulamalı web geliştirme eğitim setini bitirmiştim verilen ödevler bizim gelişimimizi sağlamak ve pekiştirmeyi arttırmak için olduğundan dolayı kendimce ödeve eklemeler yaptım çünkü verilen ödev benim için basitti ve gelişimime bir katkı sağlamayacaktı 
+Bunu "bu çocuk niye böyle yaptı" diye sorarsanız diye söylüyorum yoksa amacım çok bilmişlik falan değil en azından bana da bir yararı olsun ödevlerin diye 1 saat falan fazla uğraşarak bazı CSS eklentileri yaptım zaten çokda abartı birşey yok. anlayışınız için teşekkür ederim
+
+Saygılar...
+
+NOT: bozukluk olması durumun da Chrome dan açılması tavsiye edilir index.html giriş sayfasıdır.

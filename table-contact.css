@@ -1,0 +1,36 @@
+table{
+    margin: 10%;
+    margin-left: 20%;
+}
+th, td {
+border-bottom: 1px solid #ddd;
+padding-bottom: 5px;
+}
+
+.formgrup{
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+    margin-bottom: 40px;
+}
+input,textarea{
+    border: none;
+    width: 100%;
+    display: block;
+    font-size: 24px;
+}
+button{
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 3px ;
+    color: greenyellow;
+    background-color: black;
+    border: none;
+}
+
+.formdiv{
+    width: 70%;
+    margin: auto;
+}
+input:focus,textarea:focus{
+    outline: 0;
+}
